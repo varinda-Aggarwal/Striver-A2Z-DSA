@@ -1,3 +1,11 @@
+/*
+Problem: Count number of digits in a given integer
+Approach: Repeatedly divide number by 10 until it becomes 0
+Time Complexity: O(log10 n)
+Space Complexity: O(1)
+*/
+
+
 package Basics;
 
 public class CountDigits {
