@@ -6,23 +6,29 @@ Goal: Strengthen problem-solving skills and prepare for technical interviews thr
 
 ---
 
-## Progress Tracker
+## 📅 Progress Tracker
 
-Topic                Status        
-------------------- ------------- 
-Basics              ⏳ In Progress 
-Arrays              ⏳ In Progress 
-Sorting             ⏳ In Progress 
-Recursion           ⏳ In Progress 
-Hashing             ⏳ In Progress 
-Linked List         ⏳ In Progress 
-Stack & Queue       ⏳ In Progress 
-Binary Search       ⏳ In Progress 
-Trees               ⏳ In Progress 
-Graphs              ⏳ In Progress 
-Dynamic Programming ⏳ In Progress 
+| Topic               | Problems Solved | Status        |
+| ------------------- | --------------- | ------------- |
+| Basics              | 0               | ⏳ In Progress |
+| Arrays              | 0               | ⏳ In Progress |
+| Sorting             | 0               | ⏳ In Progress |
+| Recursion           | 0               | ⏳ In Progress |
+| Hashing             | 0               | ⏳ In Progress |
+| Linked List         | 0               | ⏳ In Progress |
+| Stack & Queue       | 0               | ⏳ In Progress |
+| Binary Search       | 0               | ⏳ In Progress |
+| Trees               | 0               | ⏳ In Progress |
+| Graphs              | 0               | ⏳ In Progress |
+| Dynamic Programming | 0               | ⏳ In Progress |
 
 ---
+
+## 📊 Overall Progress
+
+Total Problems Solved: 0
+Current Focus: Basics
+
 
 ## What you will find here
 
