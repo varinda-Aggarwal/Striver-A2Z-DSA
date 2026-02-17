@@ -10,10 +10,10 @@ Goal: Strengthen problem-solving skills and prepare for technical interviews thr
 
 | Topic               | Problems Solved | Status        |
 | ------------------- | --------------- | ------------- |
-| Basics              | 0               | ⏳ In Progress |
+| Basics              | 1               | ⏳ In Progress |
 | Arrays              | 0               | ⏳ In Progress |
 | Sorting             | 0               | ⏳ In Progress |
-| Recursion           | 0               | ⏳ In Progress |
+| Recursion           | 1               | ⏳ In Progress |
 | Hashing             | 0               | ⏳ In Progress |
 | Linked List         | 0               | ⏳ In Progress |
 | Stack & Queue       | 0               | ⏳ In Progress |
