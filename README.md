@@ -1,19 +1,27 @@
-# Striver A2Z DSA Journey 
+# 🚀 Striver A2Z DSA Journey (Java)
 
-This repository contains my structured solutions to the Striver A2Z DSA Sheet.
-
-Goal: Strengthen problem-solving skills and prepare for technical interviews through consistent daily practice.
+This repository contains my structured solutions to the **Striver A2Z DSA Sheet**.
+I solve problems daily and push consistently to improve problem-solving skills and prepare for technical interviews.
 
 ---
 
-## 📅 Progress Tracker
+## 🎯 Goals
+
+* Build strong fundamentals in Data Structures & Algorithms
+* Improve logical thinking and coding speed
+* Maintain consistency and clean coding practices
+* Become interview ready
+
+---
+
+## 📊 Progress Tracker
 
 | Topic               | Problems Solved | Status        |
 | ------------------- | --------------- | ------------- |
 | Basics              | 1               | ⏳ In Progress |
 | Arrays              | 0               | ⏳ In Progress |
 | Sorting             | 0               | ⏳ In Progress |
-| Recursion           | 1               | ⏳ In Progress |
+| Recursion           | 4               | ⏳ In Progress |
 | Hashing             | 0               | ⏳ In Progress |
 | Linked List         | 0               | ⏳ In Progress |
 | Stack & Queue       | 0               | ⏳ In Progress |
@@ -24,22 +32,40 @@ Goal: Strengthen problem-solving skills and prepare for technical interviews thr
 
 ---
 
-## 📊 Overall Progress
+## 🧠 What Each Solution Contains
 
-Total Problems Solved: 0
-
-Current Focus: Basics
-
-
-## What you will find here
-
-* Clean and readable Java solutions
-* Optimized approaches
-* Time complexity understanding
-* Daily commits showing consistency
+* Problem understanding
+* Approach explanation
+* Time & Space Complexity
+* Clean Java implementation
 
 ---
 
-## 🎯 Target
+## 📈 Overall Progress
 
-Solve complete Striver A2Z Sheet before placements.
+* Total Problems Solved: 5
+* Current Focus: Recursion
+* Next Target: Arrays
+
+---
+
+## 🛠 Tech Stack
+
+* Java
+* VS Code
+* Git & GitHub
+
+---
+
+## 📌 Purpose of this Repository
+
+This repository represents my **daily DSA practice journey** and showcases:
+
+* Consistency
+* Clean coding habits
+* Structured learning approach
+* Interview preparation discipline
+
+---
+
+⭐ *Consistency beats talent when talent doesn’t practice.*
