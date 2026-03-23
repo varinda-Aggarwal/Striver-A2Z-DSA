@@ -1,71 +1,60 @@
-# 🚀 Striver A2Z DSA Journey (Java)
+Striver A2Z DSA Sheet — Java Implementation
+A structured, topic-wise repository of Data Structures and Algorithms problems solved in Java, following the Striver A2Z DSA Course.
 
-This repository contains my structured solutions to the **Striver A2Z DSA Sheet**.
-I solve problems daily and push consistently to improve problem-solving skills and prepare for technical interviews.
+About
+This repository documents my preparation for software engineering interviews at product-based companies. Each solution is written with clarity in mind — readable code, logical variable names, and inline comments where the logic is non-obvious.
+The focus is not just on getting the answer, but on understanding why an approach works, what its trade-offs are, and how to communicate it in an interview setting.
 
----
+Progress Tracker
 
-## 🎯 Goals
+| Topic               | Problems Solved | Status      |
+| ------------------- | --------------- | ----------- |
+| Basics              | 1               | Completed   |
+| Basic Recursion     | 7               | Completed   |
+| Hashing             | 2               | Completed   |
+| Sorting             | 0               | In Progress |
+| Arrays              | 0               | Pending     |
+| Binary Search       | 0               | Pending     |
+| Strings             | 0               | Pending     |
+| Linked List         | 0               | Pending     |
+| Recusrion           | 0               | Pending     |
+| Bit Manipulation    | 0               | Pending     |
+| Stack & Queue       | 0               | Pending     |
+| Sliding Window      | 0               | Pending     |
+| Heaps               | 0               | Pending     |
+| Greedy Algorithms   | 0               | Pending     |
+| Trees               | 0               | Pending     |
+| Graphs              | 0               | Pending     |
+| Dynamic Programming | 0               | Pending     |
 
-* Build strong fundamentals in Data Structures & Algorithms
-* Improve logical thinking and coding speed
-* Maintain consistency and clean coding practices
-* Become interview ready
+Total Solved: 10
+Active Topic: Sorting
+Next: Arrays
 
----
+Approach
+For most problems, I follow a three-step process:
 
-## 📊 Progress Tracker
+Brute Force — get a working solution first
+Optimize — identify bottlenecks, improve time or space complexity
+Review — rewrite cleanly, add complexity analysis in comments
 
-| Topic               | Problems Solved | Status        |
-| ------------------- | --------------- | ------------- |
-| Basics              | 1               | ⏳ In Progress |
-| Arrays              | 0               | ⏳ In Progress |
-| Sorting             | 0               | ⏳ In Progress |
-| Recursion           | 4               | ⏳ In Progress |
-| Hashing             | 0               | ⏳ In Progress |
-| Linked List         | 0               | ⏳ In Progress |
-| Stack & Queue       | 0               | ⏳ In Progress |
-| Binary Search       | 0               | ⏳ In Progress |
-| Trees               | 0               | ⏳ In Progress |
-| Graphs              | 0               | ⏳ In Progress |
-| Dynamic Programming | 0               | ⏳ In Progress |
+This mirrors how I would walk through a problem in a real interview.
 
----
+Repository Structure
+Striver-A2Z-DSA/
+├── Basics/
+├── Recursion/
+├── Hashing/
+├── Sorting/          (upcoming)
+├── Arrays/         (upcoming)
+└── ...
 
-## 🧠 What Each Solution Contains
+Tech
 
-* Problem understanding
-* Approach explanation
-* Time & Space Complexity
-* Clean Java implementation
+Language: Java
+Editor: VS Code
+Version Control: Git & GitHub
 
----
 
-## 📈 Overall Progress
-
-* Total Problems Solved: 5
-* Current Focus: Recursion
-* Next Target: Arrays
-
----
-
-## 🛠 Tech Stack
-
-* Java
-* VS Code
-* Git & GitHub
-
----
-
-## 📌 Purpose of this Repository
-
-This repository represents my **daily DSA practice journey** and showcases:
-
-* Consistency
-* Clean coding habits
-* Structured learning approach
-* Interview preparation discipline
-
----
-
-⭐ *Consistency beats talent when talent doesn’t practice.*
+Goal
+Solve the complete Striver A2Z sheet before placements. Every commit here is a step toward that.ShareContent
