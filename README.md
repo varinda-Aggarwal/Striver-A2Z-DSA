@@ -12,8 +12,8 @@ Progress Tracker
 | Basics              | 1               | Completed   |
 | Basic Recursion     | 7               | Completed   |
 | Hashing             | 2               | Completed   |
-| Sorting             | 3               | In Progress |
-| Arrays              | 0               | Pending     |
+| Sorting             | 4               | In Progress |
+| Arrays              | 0               | In Progress |
 | Binary Search       | 0               | Pending     |
 | Strings             | 0               | Pending     |
 | Linked List         | 0               | Pending     |
@@ -27,9 +27,9 @@ Progress Tracker
 | Graphs              | 0               | Pending     |
 | Dynamic Programming | 0               | Pending     |
 
-Total Solved: 13
-Active Topic: Sorting
-Next: Arrays
+Total Solved: 14
+Active Topic: Sorting, Arrays
+Next: Binary Searching
 
 Approach
 For most problems, I follow a three-step process:
@@ -45,9 +45,10 @@ Striver-A2Z-DSA/
 ├── Basics/
 ├── Recursion/
 ├── Hashing/
-├── Sorting/          (upcoming)
-├── Arrays/         (upcoming)
-└── ...
+├── Sorting/          
+├── Arrays/         
+|── Binary Searching/    (Upcoming)
+|__ Strings/             (Upcoming)
 
 Tech
 
