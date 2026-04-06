@@ -13,7 +13,7 @@ Progress Tracker
 | Basic Recursion     | 7               | Completed   |
 | Hashing             | 2               | Completed   |
 | Sorting             | 4               | In Progress |
-| Arrays              | 0               | In Progress |
+| Arrays              | 1               | In Progress |
 | Binary Search       | 0               | Pending     |
 | Strings             | 0               | Pending     |
 | Linked List         | 0               | Pending     |
@@ -27,7 +27,7 @@ Progress Tracker
 | Graphs              | 0               | Pending     |
 | Dynamic Programming | 0               | Pending     |
 
-Total Solved: 14
+Total Solved: 15
 Active Topic: Sorting, Arrays
 Next: Binary Searching
 
