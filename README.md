@@ -13,12 +13,12 @@ Progress Tracker
 | Basic Recursion     | 7               | Completed   |
 | Hashing             | 2               | Completed   |
 | Sorting             | 4               | In Progress |
-| Arrays              | 1               | In Progress |
+| Arrays              | 9               | In Progress |
 | Binary Search       | 0               | Pending     |
 | Strings             | 0               | Pending     |
 | Linked List         | 0               | Pending     |
 | Recusrion           | 0               | Pending     |
-| Bit Manipulation    | 0               | Pending     |
+| Bit Manipulation    | 4               | In Progress |
 | Stack & Queue       | 0               | Pending     |
 | Sliding Window      | 0               | Pending     |
 | Heaps               | 0               | Pending     |
@@ -27,8 +27,8 @@ Progress Tracker
 | Graphs              | 0               | Pending     |
 | Dynamic Programming | 0               | Pending     |
 
-Total Solved: 15
-Active Topic: Sorting, Arrays
+Total Solved: 27
+Active Topic: Sorting, Arrays, Bit Manipulation
 Next: Binary Searching
 
 Approach
@@ -42,11 +42,12 @@ This mirrors how I would walk through a problem in a real interview.
 
 Repository Structure
 Striver-A2Z-DSA/
-├── Basics/
-├── Recursion/
-├── Hashing/
-├── Sorting/          
-├── Arrays/         
+|── Basics/
+|── Recursion/
+|── Hashing/
+|── Sorting/          
+|── Arrays/         
+|── Bit Manipulation/
 |── Binary Searching/    (Upcoming)
 |__ Strings/             (Upcoming)
 
