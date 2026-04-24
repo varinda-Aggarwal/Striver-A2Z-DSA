@@ -25,7 +25,7 @@ Edge Cases:
 - Missing number is n
 
 --------------------------------------------------
-Approach 3: Optimized (XOR)
+Approach 2: Optimized (XOR)
 --------------------------------------------------
 - XOR all array elements and numbers from 1 to n
 - Same numbers cancel out (a ^ a = 0)
