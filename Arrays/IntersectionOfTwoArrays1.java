@@ -25,7 +25,7 @@ O(k) → for storing the result (k = number of unique intersection elements)
 package Arrays;
 import java.util.*;
 
-public class IntersectionOfTwoArrays{
+public class IntersectionOfTwoArrays1{
     public int[] intersection(int[] nums1, int[] nums2) {
         // Step 1: Sort both arrays
         Arrays.sort(nums1);
