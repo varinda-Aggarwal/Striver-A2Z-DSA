@@ -2,16 +2,14 @@
   Problem: Set Matrix Zeroes
  
   Description:
-  Given an m x n matrix, if any element is 0, set its
-  entire row and column to 0. This must be done in-place.
+  Given an m x n matrix, if any element is 0, set its entire row and column to 0. This must be done in-place.
  
   --------------------------------------------------
    APPROACH 1 : BRUTE FORCE (Boolean Marker Matrix)
   --------------------------------------------------
    Create a 2D boolean marker matrix of same size.
-   For every 0 found, mark its entire row and column
-   as true in marker matrix. Then set zeroes in original
-   matrix based on marker.
+   For every 0 found, mark its entire row and column as true in marker matrix. 
+   Then set zeroes in original matrix based on marker.
  
    Time Complexity  : O(n×m)   → traverse matrix twice
    Space Complexity : O(n×m)   → extra 2D boolean matrix
@@ -24,8 +22,7 @@
   --------------------------------------------------
    APPROACH 2 : BETTER (Two 1D Arrays)
   --------------------------------------------------
-   Instead of a full 2D marker matrix, use two 1D boolean
-   arrays — one for rows and one for columns.
+   Instead of a full 2D marker matrix, use two 1D boolean arrays — one for rows and one for columns.
    Mark which rows and columns contain zero in first pass.
    Set zeroes in second pass based on these arrays.
  
@@ -40,10 +37,8 @@
   --------------------------------------------------
    APPROACH 3 : OPTIMAL (First Row and Column as Marker)
   --------------------------------------------------
-   Use the first row and first column of the matrix itself
-   as markers — no extra space needed.
-   Since first row and column are used as markers, we need
-   two boolean flags to track if they originally had zeroes.
+   Use the first row and first column of the matrix itself as markers — no extra space needed.
+   Since first row and column are used as markers, we need two boolean flags to track if they originally had zeroes.
  
    Step 1 : Check if first row and first column have any zero
    Step 2 : Traverse rest of matrix — if zero found, mark
@@ -61,7 +56,6 @@
  */
 
 package Arrays;
-
 public class SetMatrixZero{
 
      // ------------------ Brute Approach: Boolean Marker Matrix Approach ------------------

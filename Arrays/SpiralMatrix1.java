@@ -2,24 +2,20 @@
   Problem: Spiral Matrix
  
   Description:
-  Given an m x n matrix, return all elements of the
-  matrix in spiral order.
+  Given an m x n matrix, return all elements of the matrix in spiral order.
  
   --------------------------------------------------
    APPROACH : FOUR POINTERS
   --------------------------------------------------
-   Use four pointers — top, right, bottom, left —
-   to track the boundaries of the matrix.
-   In each iteration shrink the boundary after
-   traversing that side.
+   Use four pointers — top, right, bottom, left — to track the boundaries of the matrix.
+   In each iteration shrink the boundary after traversing that side.
  
    - top    → current top row    (traverse left to right)
    - right  → current right col  (traverse top to bottom)
    - bottom → current bottom row (traverse right to left)
    - left   → current left col   (traverse bottom to top)
  
-   Extra check before bottom and left traversal to avoid
-   duplicates in case of single row or single column left.
+   Extra check before bottom and left traversal to avoid duplicates in case of single row or single column left.
  
    Time Complexity  : O(n×m) → every element visited once
    Space Complexity : O(1)   → excluding result list
