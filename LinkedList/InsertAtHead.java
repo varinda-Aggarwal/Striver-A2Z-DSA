@@ -3,14 +3,12 @@
 
   Description:
   Given the head of a linked list and a value x,
-  insert a new node with value x at the front
-  of the linked list and return the new head.
+  insert a new node with value x at the front of the linked list and return the new head.
  
   --------------------------------------------------
    APPROACH : NEW NODE AT FRONT
   --------------------------------------------------
-   Create a new node with given value, point its next
-   to current head, and return new node as new head.
+   Create a new node with given value, point its next to current head, and return new node as new head.
  
    Time Complexity  : O(1) → direct insertion at front
    Space Complexity : O(1) → only one new node created

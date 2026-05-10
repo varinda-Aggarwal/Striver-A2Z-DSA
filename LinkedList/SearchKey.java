@@ -47,6 +47,8 @@ class Node {
 
 public class SearchKey {
 
+    // ----------------- ITERATIVE APPROACH -------------------
+    
     public boolean SearchKeyIterative(Node head, int key) {
         // traverse list until end
         while (head != null) {
@@ -58,6 +60,8 @@ public class SearchKey {
         // key not found
         return false;
     }
+
+     // ----------------- RECURSIVE APPROACH -------------------
 
     public boolean SearchKeyRecursive(Node head, int key) {
         // base case — end of list, key not found
