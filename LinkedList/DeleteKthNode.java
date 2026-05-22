@@ -24,16 +24,6 @@
 
 package LinkedList;
 
-class Node {
-    int data;
-    Node next;
-
-    Node(int d) {
-        data = d;
-        next = null;
-    }
-}
-
 public class DeleteKthNode {
     Node deleteK(Node head, int k) {
         if (head == null) return null;      // if empty list

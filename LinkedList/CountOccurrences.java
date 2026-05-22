@@ -20,16 +20,6 @@ Given the head of a linked list and a key, return the number of times the key ap
 
 package LinkedList;
 
-class Node {
-    int data;
-    Node next;
-
-    Node(int key) {
-        data = key;
-        next = null;
-    }
-}
-
 public class CountOccurrences {
     public static int count(Node head, int key) {
         int count = 0;

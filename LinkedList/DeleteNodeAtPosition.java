@@ -23,16 +23,6 @@
 
 package LinkedList;
 
-class Node {
-    int data;
-    Node next;
-
-    Node(int d) {
-        this.data = d;
-        this.next = null;
-    }
-}
-
 public class DeleteNodeAtPosition {
     Node deleteNode(Node head, int x) {
         if (head == null) return null;      // if list is empty

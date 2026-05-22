@@ -35,15 +35,6 @@
 
 package LinkedList;
 
-class ListNode {
-    int val;
-    ListNode next;
-
-    ListNode(int value) {
-        this.val   = value;
-        this.next  = null;
-    }
-}
 
 public class LengthOfLinkedList {
 

@@ -21,16 +21,6 @@
 
 package LinkedList;
 
-class Node {
-    int data;
-    Node next;
-
-    Node(int x) {
-        data = x;
-        next = null;
-    }
-}
-
 public class InsertAtEnd {
     public Node insertAtEnd(Node head, int x) {
         Node newNode = new Node(x);         // create new node with given value
