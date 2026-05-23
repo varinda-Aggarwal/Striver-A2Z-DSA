@@ -25,15 +25,6 @@
 
 package LinkedList;
 
-class Node {
-    int data;
-    Node next;
-
-    Node(int key) {
-        data = key;
-        next = null;
-    }
-}
 
 public class GetNthNode {
     public int GetNth(Node head, int index) {
