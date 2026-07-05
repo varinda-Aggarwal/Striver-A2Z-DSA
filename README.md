@@ -12,13 +12,14 @@ Progress Tracker
 | Basics              | 1               | Completed   |
 | Basic Recursion     | 7               | Completed   |
 | Hashing             | 2               | Completed   |
-| Sorting             | 4               | In Progress |
-| Arrays              | 14              | In Progress |
+| Sorting             | 5               | In Progress |
+| Arrays              | 29              | In Progress |
 | Binary Search       | 0               | Pending     |
 | Strings             | 0               | Pending     |
-| Linked List         | 0               | Pending     |
-| Recusrion           | 0               | Pending     |
-| Bit Manipulation    | 4               | In Progress |
+| Linked List         | 32              | Completed   |
+| Doubly Linked List  | 6               | Completed   |
+| Recusrion           | 7               | Completed   |
+| Bit Manipulation    | 7               | In Progress |
 | Stack & Queue       | 0               | Pending     |
 | Sliding Window      | 0               | Pending     |
 | Heaps               | 0               | Pending     |
@@ -27,9 +28,9 @@ Progress Tracker
 | Graphs              | 0               | Pending     |
 | Dynamic Programming | 0               | Pending     |
 
-Total Solved: 32
-Active Topic: Sorting, Arrays, Bit Manipulation
-Next: Binary Searching
+Total Solved: 89
+Active Topic: Arrays
+Next: Binary Search → Strings (both this month)
 
 Approach
 For most problems, I follow a three-step process:
@@ -45,18 +46,18 @@ Striver-A2Z-DSA/
 |── Basics/
 |── Recursion/
 |── Hashing/
-|── Sorting/          
-|── Arrays/         
-|── Bit Manipulation/
-|── Binary Searching/    (Upcoming)
-|__ Strings/             (Upcoming)
+|── BitManipulation/
+|── LinkedList/
+|── DoublyLinkedList/
+|── Sorting/
+|── Arrays/
+|── BinarySearch/     (Upcoming)
+|__ Strings/          (Upcoming)
 
 Tech
-
 Language: Java
 Editor: VS Code
 Version Control: Git & GitHub
 
-
 Goal
-Solve the complete Striver A2Z sheet before placements. Every commit here is a step toward that.ShareContent
+Solve the complete Striver A2Z sheet before placements. Every commit here is a step toward that.
