@@ -36,7 +36,7 @@ Each child can get at most one cookie.
  - All cookies too small → return 0
 */
 
-package Arrays;
+package GreedyProblems;
 import java.util.Arrays;
 
 public class AssignCookies {

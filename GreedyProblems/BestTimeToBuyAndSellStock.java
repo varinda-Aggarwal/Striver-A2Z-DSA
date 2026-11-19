@@ -39,7 +39,7 @@
   --------------------------------------------------
  */
 
-package Arrays;
+package GreedyProblems;
 public class BestTimeToBuyAndSellStock {
 
     public int maxProfitBrute(int[] prices) {
