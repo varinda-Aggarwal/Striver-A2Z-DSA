@@ -56,7 +56,7 @@ Space Complexity: O(n)
 
 package Stacks;
 import java.util.Stack;
-public class BasicCalculatorII {
+public class EvaluateReversePolishNotation {
 
     // ------------------------- Approach: Stack -------------------------
 
